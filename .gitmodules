@@ -1,0 +1,6 @@
+[submodule "bout"]
+	path = bout
+	url = ssh://aur@aur.archlinux.org/bout.git
+[submodule "python-tabula"]
+	path = python-tabula
+	url = ssh://aur@aur.archlinux.org/python-tabula.git
