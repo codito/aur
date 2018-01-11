@@ -4,3 +4,6 @@
 [submodule "python-tabula"]
 	path = python-tabula
 	url = ssh://aur@aur.archlinux.org/python-tabula.git
+[submodule "habito"]
+	path = habito
+	url = ssh://aur@aur.archlinux.org/habito.git
